@@ -5,5 +5,26 @@ theme = "PaperMod"
 
 [params]
   author = "Nishant"
-  description = "Site Reliability / DevOps Engineer working with Kubernetes, cloud infrastructure, and automation"
+  description = "Site Reliability / DevOps Engineer working with Kubernetes, Cloud, and Automation"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
 
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
