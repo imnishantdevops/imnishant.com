@@ -1,0 +1,9 @@
+baseURL = "https://imnishantdevops.github.io/"
+languageCode = "en-us"
+title = "Nishant | SRE / DevOps"
+theme = "PaperMod"
+
+[params]
+  author = "Nishant"
+  description = "Site Reliability / DevOps Engineer working with Kubernetes, cloud infrastructure, and automation"
+
